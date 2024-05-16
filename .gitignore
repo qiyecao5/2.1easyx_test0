@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# 排除下面的文件目录
+/bin
+/build
