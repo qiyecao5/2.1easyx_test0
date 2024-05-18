@@ -21,7 +21,7 @@ void ShowResult::drawResult()
     circle(200, 200,100);
 
     system("pause");
-    closegraph(); //关闭窗口
+    closegraph(); //关闭窗口 
 }
 
 
